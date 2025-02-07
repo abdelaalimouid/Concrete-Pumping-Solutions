@@ -56,7 +56,6 @@ npm run dev  # or yarn dev
 |--------------|
 | ![GIF](./screenshots/demo.gif) |
 
-*(Replace these with actual project screenshots!)*
 
 ---
 
