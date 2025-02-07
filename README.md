@@ -22,8 +22,8 @@ A stunning **Landing Page** built with **Next.js, Three.js, ShadCN, and Framer M
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+https://github.com/abdelaalimouid/Landing-page-nextjs-.git
+cd Landing-page-nextjs-
 ```
 
 ### 2️⃣ Install Dependencies
@@ -52,9 +52,9 @@ npm run dev  # or yarn dev
 
 ## 🎥 Screenshots & Demo
 
-| 📷 Screenshot | 🎬 GIF Demo |
-|--------------|------------|
-| ![Screenshot](./screenshots/image2.png) | ![GIF](./screenshots/demo.gif) |
+| 🎬 GIF Demo |
+|--------------|
+| ![GIF](./screenshots/demo.gif) |
 
 *(Replace these with actual project screenshots!)*
 
