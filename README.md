@@ -54,7 +54,7 @@ npm run dev  # or yarn dev
 
 | 🎬 GIF Demo |
 |--------------|
-| ![GIF](./screenshots/image2) |
+| ![GIF](./screenshots/demo.gif) |
 
 
 ---
