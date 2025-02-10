@@ -22,7 +22,7 @@ A stunning **Landing Page** built with **Next.js, Three.js, ShadCN, and Framer M
 
 ### 1️⃣ Clone the Repository
 ```bash
-https://github.com/abdelaalimouid/Landing-page-nextjs-.git
+https://github.com/abdelaalimouid/Concrete-Pumping-Solutions.git
 cd Landing-page-nextjs-
 ```
 
@@ -64,7 +64,7 @@ npm run dev  # or yarn dev
 ### Deploy on **Vercel** (Recommended)
 Click the button below to deploy instantly:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/your-username/your-repo)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/abdelaalimouid/Concrete-Pumping-Solutions)
 
 Or deploy manually:
 ```bash
@@ -76,7 +76,7 @@ vercel
 ## 🤝 Contributing
 
 1. **Fork** this repository.
-2. **Clone** your fork: `git clone https://github.com/your-username/your-repo.git`
+2. **Clone** your fork: `https://github.com/abdelaalimouid/Concrete-Pumping-Solutions.git`
 3. **Create a branch**: `git checkout -b feature-branch`
 4. **Make changes** and commit: `git commit -m 'Add new feature'`
 5. **Push** to your fork: `git push origin feature-branch`
