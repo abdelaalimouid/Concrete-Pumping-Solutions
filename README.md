@@ -55,7 +55,7 @@ npm run dev  # or yarn dev
 |--------------|
 | ![GIF](./screenshots/demo.gif) |
 
-Live Demo: ![https://landing-page-eht.vercel.app/](https://landing-page-eht.vercel.app/) 
+Live Demo: (https://landing-page-eht.vercel.app/) 
 
 
 ---
