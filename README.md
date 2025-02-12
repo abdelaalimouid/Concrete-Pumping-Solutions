@@ -6,7 +6,6 @@ A stunning **Landing Page** built with **Next.js, Three.js, ShadCN, and Framer M
 
 ![Landing Page Preview](./screenshots/image.png)
 
-*(Replace this with an actual screenshot or GIF of your project in action!)*
 
 ## ✨ Features
 
@@ -50,11 +49,13 @@ npm run dev  # or yarn dev
 
 ---
 
-## 🎥 Screenshots & Demo
+## 🎥 Demo
 
 | 🎬 GIF Demo |
 |--------------|
 | ![GIF](./screenshots/demo.gif) |
+
+Live Demo: ![https://landing-page-eht.vercel.app/](https://landing-page-eht.vercel.app/) 
 
 
 ---
